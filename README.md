@@ -87,7 +87,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mp-cardoso&theme=dracula" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=mp-cardoso&theme=github-dark-blue" height="250" alt="streak graph"  />
 </div>
 
 ###
