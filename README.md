@@ -81,13 +81,3 @@
 </div>
 
 ###
-
-<h3 align="left">🔥   My Stats</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=mp-cardoso&theme=dracula" height="250" alt="streak graph"  />
-</div>
-
-###
